@@ -1,6 +1,7 @@
 ---
 title: Bonaparte Crossing the Rhine
-tags: recording
+tags: artistic
+metabar: false
 ---
 *Bonaparte Crossing the Rhine* is a split album with experimental/old-time musician Ben Townsend. In response to Townsend's Terry Riley-inspired treatment of the fiddle tune "Bonaparte Corssing the Rhine", I contributed a 20-minute electronic composition by the same name, which plays with the material of the tune, the recording of the tune itself, and a sculpted soundscape of white-ish noise.
 

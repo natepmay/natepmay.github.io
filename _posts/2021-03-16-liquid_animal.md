@@ -1,6 +1,14 @@
 ---
 title: Liquid Animal
-tags: composition
+tags: artistic
+duration: 6-14 mins.
+instrumentation: at least three players
+commissioner: Chris Graham
+premiereensemble: The Purchase Contemporary Ensemble
+premierevenue: online and in Harrison, NY
+premieredate: May 13, 2021
+
+
 ---
 <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/C1ZV7bQkeyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 *Liquid Animal* came out of a need for music that could be performed remotely during Covid, and was designed to be as flexible as possible to allow for multiple instrumental combinations, performance formats, player levels, and even performance speeds. 

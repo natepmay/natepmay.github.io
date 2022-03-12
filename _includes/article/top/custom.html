@@ -1,7 +1,40 @@
 <!-- start custom article top snippet -->
 {% if page.metabar != false %}
 <div class="custom-meta">
-<span class="custom-meta-item">Testing testing</span> {{ page.instrumentation }}
+<style>
+    td, th {
+        padding: 5px;
+        width: 50%;
+    }
+    .left {
+        padding-right: 10px;
+        text-align: right;
+    }
+    .right {
+        padding-left: 10px;
+        text-align: left;
+    }
+</style>
+<table style="width: 100%">
+    {% if page.instrumentation %}
+    <tr><td class="left"><span class="custom-meta-item">Instrumentation</span></td><td class="right">{{ page.instrumentation }}</td></tr>
+    {% endif %}
+    {% if page.duration %}
+    <tr><td class="left"><span class="custom-meta-item">Duration</span></td><td class="right">{{ page.duration }}</td></tr>
+    {% endif %}
+    {% if page.commissioner %}
+    <tr><td class="left"><span class="custom-meta-item">Commissioned By</span></td><td class="right">{{ page.commissioner }}</td></tr>
+    {% endif %}
+    {% if page.premieredate %}
+    <tr><td class="left"><span class="custom-meta-item">Premiere Date</span></td><td class="right">{{ page.premieredate }}</td></tr>
+    {% endif %}
+    {% if page.premierevenue %}
+    <tr><td class="left"><span class="custom-meta-item">Premiere Venue</span></td><td class="right">{{ page.premierevenue }}</td></tr>
+    {% endif %}
+    {% if page.premiereensemble %}
+    <tr><td class="left"><span class="custom-meta-item">Premiere Ensemble</span></td><td class="right">{{ page.premiereensemble }}</td></tr>
+    {% endif %}
+</table>
 </div>
 {% endif %}
 <!-- end custom article top snippet -->

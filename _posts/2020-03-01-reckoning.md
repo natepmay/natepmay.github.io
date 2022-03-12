@@ -1,9 +1,10 @@
 ---
 title: A Reckoning in Boston
-tags: composition collaboration
+tags: artistic
+metabar: false
 ---
 <div class="video-container"><iframe title="vimeo-player" src="https://player.vimeo.com/video/457955777?h=d4de7b1e1b" width="640" height="360" frameborder="0" allowfullscreen></iframe></div>
-*A Reckoning in Boston* is a feature-length documentary by James Rutenbeck that premiered February 21, 2021 at Big Sky Film Festival. I composed and produced the film's score.
+*A Reckoning in Boston* is a feature-length documentary by James Rutenbeck that premiered February 21, 2021 at Big Sky Film Festival. I composed and produced the film's score and played all piano parts.
 
 Here is a sampling of some of my original compositions for the film:
 

@@ -1,6 +1,12 @@
 ---
 title: One Brilliant
-tags: composition
+tags: artistic
+instrumentation: piano, vibraphone, and electronics
+duration: 10 min.
+commissioner: The Response Project
+premieredate: January 28, 2021
+premiereensemble: Briana Matzke, piano; Chris Graham, vibraphone
+premierevenue: online and in Cincinnati, OH
 ---
 <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/-h3bqhyCK9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 *One Brilliant* was commissioned as part of Brianna Matzke's "Response Project" series, in response to the *Sonic Meditations* of Pauline Oliveros. I wrote the piece in a scrolling video score format that I developed, which allows performers to coordinate non-metrical rhythms with ease, and synchronizes them with an electronic track. I made the electronic track from samples I took of myself playing an accordion and an air pump, both in response to Oliveros's works.

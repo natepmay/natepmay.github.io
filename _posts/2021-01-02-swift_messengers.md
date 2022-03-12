@@ -1,6 +1,9 @@
 ---
 title: Swift Messengers
-tags: composition
+tags: artistic
+duration: 11 min.
+instrumentation: bitKlavier
+commissioner: Dan Trueman
 ---
 Along with *So Shrunk My Sinews*, *Swift Messengers* was one of two pieces I wrote on commission from Princeton professor [Dan Trueman](http://manyarrowsmusic.com/) for his software instrument, the [bitKlavier](https://bitklavier.com/). The compositional process involved both composing notes for the performer to play and designing and programming the patch. In this case, I also did all of the sound design for the patch, recording sounds of bowed and struck wine glasses for both a tinkling and a breathing effect.
 
